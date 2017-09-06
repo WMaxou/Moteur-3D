@@ -1,0 +1,144 @@
+2017-09-06 18:33:54,430 INFO  [default] Error dans le vertex shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+
+2017-09-06 18:33:54,431 INFO  [default] Error dans le fragment shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+
+2017-09-06 18:33:54,456 INFO  [default] Erreur linkage Vertex info
+-----------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+(0) : error C2003: incompatible options for link
+
+Fragment info
+-------------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+(0) : error C2003: incompatible options for link
+
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:33:54,462 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,056 INFO  [default] Error dans le vertex shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+
+2017-09-06 18:34:56,057 INFO  [default] Error dans le fragment shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+
+2017-09-06 18:34:56,079 INFO  [default] Erreur linkage Vertex info
+-----------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+(0) : error C2003: incompatible options for link
+
+Fragment info
+-------------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+(0) : error C2003: incompatible options for link
+
+2017-09-06 18:34:56,083 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:34:56,084 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,477 INFO  [default] Error dans le vertex shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+
+2017-09-06 18:35:50,477 INFO  [default] Error dans le fragment shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+
+2017-09-06 18:35:50,496 INFO  [default] Erreur linkage Vertex info
+-----------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+(0) : error C2003: incompatible options for link
+
+Fragment info
+-------------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+(0) : error C2003: incompatible options for link
+
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:35:50,502 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,412 INFO  [default] Error dans le vertex shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+
+2017-09-06 18:36:30,413 INFO  [default] Error dans le fragment shader: 0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+
+2017-09-06 18:36:30,431 INFO  [default] Erreur linkage Vertex info
+-----------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(4) : error C0204: version directive must be first statement and may not be repeated
+0(14) : error C0000: syntax error, unexpected "<<" at token "<<"
+(0) : error C2003: incompatible options for link
+
+Fragment info
+-------------
+0(1) : error C0000: syntax error, unexpected "<<" at token "<<"
+0(2) : error C0204: version directive must be first statement and may not be repeated
+0(9) : error C0000: syntax error, unexpected "==" at token "=="
+0(10) : error C0204: version directive must be first statement and may not be repeated
+0(15) : error C0000: syntax error, unexpected '{', expecting ',' or ';' at token "{"
+(0) : error C2003: incompatible options for link
+
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
+2017-09-06 18:36:30,437 INFO  [default] Class function unbinded
